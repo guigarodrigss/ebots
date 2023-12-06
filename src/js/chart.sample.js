@@ -68,7 +68,7 @@ new Chart(ctx, {
         data: randomChartData(9)
       }
     ],
-    labels: ['01', '02', '03', '04', '05', '06', '07', '08', '09']
+    labels: ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro']
   },
   options: {
     maintainAspectRatio: false,
